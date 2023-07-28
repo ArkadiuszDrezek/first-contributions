@@ -1,4 +1,4 @@
-G  # Contributors
+# Contributors
 <!-- prettier-ignore-start -->
 - [miguel-sr] (https://github.com/miguel-sr)
 - [rutubha](https://github.com/rutubha)
@@ -2286,6 +2286,7 @@ Rishabh Pandey
 - [Samvardhan](https://github.com/samvardhan777)
 - [Iyyappan R](https://github.com/dvrsaran)
 - [Zinkue](https://github.com/Zinkue)
+- [Arkadiusz Drężek](https://github.com/ArkadiuszDrezek)
 - Aditya Gaikwad @ DevSocIP
 - [Rohit Yadav](https://www.linkedin.com/in/rohit-yadav-0852481b2/)
 - [Tyler Martin @HeyTylerMartin](https://github.com/HeyTylerMartin)
@@ -3217,5 +3218,3 @@ Ayan Das
 - [Kyosuke](https://github.com/Kyosuke-Kaneko)
 - [prashantj](https://github.com/prashantnot75)
 - [Arijit De](https://github.com/arijitde92)
-- [Arkadiusz Drężek] (https://github.com/ArkadiuszDrezek)
-- [Arkadiusz Drężek2] (https://github.com/ArkadiuszDrezek)
